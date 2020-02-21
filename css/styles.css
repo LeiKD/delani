@@ -13,3 +13,12 @@ h1{
 h6{
   color: white;
 }
+.design-showing{
+  display: none;
+}
+.dev-showing{
+  display: none;
+}
+.product-showing{
+  display: none;
+}
