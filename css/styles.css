@@ -1,0 +1,15 @@
+.title{
+  background-image: url("../images/h_img.jpg");
+  padding: 15%;
+}
+.services{
+  background-image: url("../images/s_image.jpg");
+  padding: 7%;
+  color: white;
+}
+h1{
+  color: white;
+}
+h6{
+  color: white;
+}
