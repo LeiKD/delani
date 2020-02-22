@@ -13,12 +13,12 @@ h1{
 h6{
   color: white;
 }
-.design-showing{
+#design-showing{
   display: none;
 }
-.dev-showing{
+#dev-showing{
   display: none;
 }
-.product-showing{
+#product-showing{
   display: none;
 }
