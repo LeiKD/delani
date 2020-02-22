@@ -9,6 +9,7 @@
 }
 h1{
   color: white;
+  font-weight: 550;
 }
 h6{
   color: white;
@@ -46,7 +47,8 @@ h2 form{
   height: 300px;
   width: 820px;
   background: transparent;
-  padding-left: 10px;
+  padding-left: 9px;
+  padding-top: 12px;
 }
 ::placeholder{
   color: white;
@@ -55,5 +57,8 @@ h2 form{
   color: white;
 }
 h4{
+  font-weight: 550;
+}
+h2{
   font-weight: 550;
 }
