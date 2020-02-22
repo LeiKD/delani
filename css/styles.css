@@ -12,6 +12,7 @@ h1{
 }
 h6{
   color: white;
+  
 }
 #design-showing{
   display: none;
@@ -52,4 +53,7 @@ h2 form{
 }
 .contact{
   color: white;
+}
+h4{
+  font-weight: 550;
 }
