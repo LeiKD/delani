@@ -22,3 +22,34 @@ h6{
 #product-showing{
   display: none;
 }
+.contact{
+  height: 500px;
+  padding: 40px 0px;
+  background-image: url("../images/c_image.jpg");
+}
+h2 form{
+  display: block;
+}
+#email{
+  width: 400px;
+  background: transparent;
+  color: white;
+  margin-left: 20px;
+  padding-left: 10px;
+}
+#name{
+  width: 400px;
+  background: transparent;
+  color: white;
+  padding-left: 10px;
+}
+#text{
+  height: 300px;
+  width: 820px;
+  background: transparent;
+  color: white;
+  padding-left: 10px;
+}
+::placeholder{
+  color: white;
+}
