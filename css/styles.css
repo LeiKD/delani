@@ -1,6 +1,7 @@
 .title{
   background-image: url("../images/h_img.jpg");
   padding: 15%;
+  
 }
 .services{
   background-image: url("../images/s_image.jpg");
@@ -9,7 +10,8 @@
 }
 h1{
   color: white;
-  font-weight: 550;
+  font-weight: 450;
+  font-size: 50px;
 }
 h6{
   color: white;
@@ -60,5 +62,5 @@ h4{
   font-weight: 550;
 }
 h2{
-  font-weight: 550;
+  font-weight: 450;
 }
