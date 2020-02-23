@@ -11,7 +11,7 @@ function enter() {
 
 
 
-$(document).ready(function() {
+$(document).ready(function(event) {
   $(".design").click( function() {
     $("#design-showing").toggle()
     $("#design-hidden").toggle()
@@ -24,4 +24,5 @@ $(document).ready(function() {
     $("#product-showing").toggle()
     $("#product-hidden").toggle()
   })
+  event.preventDefault()
 })
