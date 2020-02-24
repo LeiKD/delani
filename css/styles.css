@@ -89,3 +89,9 @@ h2{
 .hover:hover .work {
   opacity: 1;
 }
+.icons{
+  text-align: center;
+}
+.icons{
+  display: inline-block;
+}
